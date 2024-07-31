@@ -1,1 +1,1 @@
-# KineX
+# KineX AI
