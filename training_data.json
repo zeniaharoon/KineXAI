@@ -1,0 +1,386 @@
+{
+    "lower back": {
+        "exercises": [
+            {
+                "name": "Cat-Cow Stretch",
+                "explanation": "Start on your hands and knees. Inhale as you arch your back, and exhale as you round it."
+            },
+            {
+                "name": "Child's Pose",
+                "explanation": "Kneel on the floor, sit back on your heels, and stretch your arms forward, lowering your head to the floor."
+            },
+            {
+                "name": "Pelvic Tilts",
+                "explanation": "Lie on your back with your knees bent. Flatten your back against the floor by tightening your abdominal muscles and tilting your pelvis up slightly."
+            },
+            {
+                "name": "Bridge Exercise",
+                "explanation": "Lie on your back with your knees bent and feet flat on the floor. Lift your hips towards the ceiling while squeezing your glutes."
+            },
+            {
+                "name": "Lower Back Twist",
+                "explanation": "Lie on your back with your knees bent and feet flat. Drop your knees to one side while keeping your shoulders on the floor, then switch sides."
+            }
+        ]
+    },
+    "neck": {
+        "exercises": [
+            {
+                "name": "Neck Stretches",
+                "explanation": "Gently tilt your head towards your shoulder and hold. Repeat on the other side."
+            },
+            {
+                "name": "Shoulder Shrugs",
+                "explanation": "Lift your shoulders up towards your ears and then lower them back down."
+            },
+            {
+                "name": "Chin Tucks",
+                "explanation": "Pull your chin towards your neck, creating a 'double chin' effect."
+            },
+            {
+                "name": "Upper Trapezius Stretch",
+                "explanation": "Sit or stand with your back straight. Tilt your head to one side and use your hand to gently pull your head further to the side."
+            },
+            {
+                "name": "Levator Scapulae Stretch",
+                "explanation": "Sit or stand. Rotate your head 45 degrees to one side and tilt your chin down towards your armpit. Use your hand to gently pull your head further."
+            }
+        ]
+    },
+    "shoulder": {
+        "exercises": [
+            {
+                "name": "Cross-Body Shoulder Stretch",
+                "explanation": "Bring one arm across your body and use your other arm to pull it closer."
+            },
+            {
+                "name": "Doorway Stretch",
+                "explanation": "Stand in a doorway, place your arms on the doorframe, and lean forward to stretch your chest and shoulders."
+            },
+            {
+                "name": "Overhead Stretch",
+                "explanation": "Raise one arm overhead and bend your elbow. Use your other hand to gently pull your elbow towards your head."
+            },
+            {
+                "name": "Pendulum Stretch",
+                "explanation": "Lean forward and let your arm hang down. Swing your arm gently in small circles."
+            },
+            {
+                "name": "Sleeper Stretch",
+                "explanation": "Lie on your side with your bottom arm extended in front of you. Use your top arm to gently push your bottom arm down towards the floor."
+            }
+        ]
+    },
+    "knee": {
+        "exercises": [
+            {
+                "name": "Quadriceps Stretch",
+                "explanation": "Stand on one leg, bend your other knee, and pull your heel towards your buttocks."
+            },
+            {
+                "name": "Hamstring Stretch",
+                "explanation": "Sit with one leg extended and the other bent. Reach towards your toes on the extended leg."
+            },
+            {
+                "name": "Calf Raises",
+                "explanation": "Stand with your feet shoulder-width apart. Lift your heels off the ground and then lower them back down."
+            },
+            {
+                "name": "Straight Leg Raises",
+                "explanation": "Lie on your back with one leg bent and the other straight. Lift the straight leg to the height of the bent knee."
+            },
+            {
+                "name": "Step-Ups",
+                "explanation": "Step onto a platform with one foot and then step back down. Repeat with the other foot."
+            }
+        ]
+    },
+    "ankle": {
+        "exercises": [
+            {
+                "name": "Ankle Circles",
+                "explanation": "Sit or lie down with one leg extended. Rotate your ankle in circles."
+            },
+            {
+                "name": "Calf Stretch",
+                "explanation": "Stand facing a wall with one foot forward and one back. Press your back heel into the ground."
+            },
+            {
+                "name": "Heel Raises",
+                "explanation": "Stand with your feet shoulder-width apart. Lift your heels off the ground and lower them back down."
+            },
+            {
+                "name": "Towel Stretch",
+                "explanation": "Sit with your legs extended. Loop a towel around your foot and gently pull towards you."
+            },
+            {
+                "name": "Ankle Dorsiflexion",
+                "explanation": "Sit with your legs extended. Flex your foot upwards towards your shin."
+            }
+        ]
+    },
+    "hip": {
+        "exercises": [
+            {
+                "name": "Hip Flexor Stretch",
+                "explanation": "Kneel on one knee and push your hips forward to stretch the front of your hip."
+            },
+            {
+                "name": "Piriformis Stretch",
+                "explanation": "Lie on your back with one leg bent. Cross your other leg over the bent knee and pull your knee towards your chest."
+            },
+            {
+                "name": "Glute Bridges",
+                "explanation": "Lie on your back with your knees bent and feet flat on the floor. Lift your hips towards the ceiling."
+            },
+            {
+                "name": "Hip Rotations",
+                "explanation": "Sit on a chair and rotate your hip by moving your knee out to the side and back in."
+            },
+            {
+                "name": "Clamshell Exercise",
+                "explanation": "Lie on your side with your knees bent. Keep your feet together and lift your top knee."
+            }
+        ]
+    },
+    "wrist": {
+        "exercises": [
+            {
+                "name": "Wrist Flexor Stretch",
+                "explanation": "Extend your arm with your palm facing up. Use your other hand to gently pull your fingers down."
+            },
+            {
+                "name": "Wrist Extensor Stretch",
+                "explanation": "Extend your arm with your palm facing down. Use your other hand to gently pull your fingers down."
+            },
+            {
+                "name": "Finger Stretches",
+                "explanation": "Extend your fingers and then make a fist. Repeat."
+            },
+            {
+                "name": "Tendon Glides",
+                "explanation": "Extend your fingers straight, then bend your fingertips to touch the base of your fingers."
+            },
+            {
+                "name": "Wrist Curls",
+                "explanation": "Hold a light weight in your hand with your palm facing up. Curl your wrist up and down."
+            }
+        ]
+    },
+    "elbow": {
+        "exercises": [
+            {
+                "name": "Wrist Flexor Stretch",
+                "explanation": "Extend your arm with your palm facing up. Use your other hand to gently pull your fingers down."
+            },
+            {
+                "name": "Wrist Extensor Stretch",
+                "explanation": "Extend your arm with your palm facing down. Use your other hand to gently pull your fingers down."
+            },
+            {
+                "name": "Triceps Stretch",
+                "explanation": "Raise one arm overhead and bend your elbow. Use your other hand to gently pull your elbow towards your head."
+            },
+            {
+                "name": "Bicep Stretch",
+                "explanation": "Extend your arm with your palm facing up. Use your other hand to gently push your fingers back."
+            },
+            {
+                "name": "Forearm Pronation/Supination",
+                "explanation": "Hold your forearm out and rotate your palm up and down."
+            }
+        ]
+    },
+    "upper back": {
+        "exercises": [
+            {
+                "name": "Thoracic Extension",
+                "explanation": "Sit on a chair and place a rolled towel or foam roller behind your mid-back. Lean back over it to extend your thoracic spine."
+            },
+            {
+                "name": "Scapular Squeeze",
+                "explanation": "Squeeze your shoulder blades together and hold for a few seconds."
+            },
+            {
+                "name": "Child's Pose with Side Stretch",
+                "explanation": "Kneel on the floor and sit back on your heels. Stretch your arms to one side, then the other."
+            },
+            {
+                "name": "Foam Roller Stretch",
+                "explanation": "Lie on a foam roller placed along your spine. Stretch your arms out to the sides and hold."
+            },
+            {
+                "name": "Wall Angels",
+                "explanation": "Stand with your back against a wall and arms at your sides. Raise your arms to form a 'W', then extend them overhead to form a 'Y'."
+            }
+        ]
+    },
+    "lower leg": {
+        "exercises": [
+            {
+                "name": "Calf Stretch",
+                "explanation": "Stand facing a wall with one foot forward and one back. Press your back heel into the ground."
+            },
+            {
+                "name": "Seated Calf Raise",
+                "explanation": "Sit on a chair with your feet flat. Raise your heels off the ground and lower them back down."
+            },
+            {
+                "name": "Standing Toe Raise",
+                "explanation": "Stand with your feet shoulder-width apart. Raise your toes off the ground and lower them back down."
+            },
+            {
+                "name": "Ankle Pumps",
+                "explanation": "Sit with your legs extended. Flex and point your toes repeatedly."
+            },
+            {
+                "name": "Toe Curls",
+                "explanation": "Sit with your feet flat on the ground. Curl your toes inwards and then extend them."
+            }
+        ]
+    },
+    "foot": {
+        "exercises": [
+            {
+                "name": "Plantar Fascia Stretch",
+                "explanation": "Sit with one leg crossed over the other. Pull your toes back towards your shin."
+            },
+            {
+                "name": "Toe Stretch",
+                "explanation": "Sit with your feet flat on the ground. Spread your toes apart and hold."
+            },
+            {
+                "name": "Marble Pickups",
+                "explanation": "Place marbles on the ground and use your toes to pick them up."
+            },
+            {
+                "name": "Arch Raises",
+                "explanation": "Sit with your feet flat. Raise the arches of your feet without lifting your toes or heels."
+            },
+            {
+                "name": "Towel Stretch",
+                "explanation": "Sit with your legs extended. Loop a towel around your foot and gently pull towards you."
+            }
+        ]
+    },
+    "hand": {
+        "exercises": [
+            {
+                "name": "Finger Flexor Stretch",
+                "explanation": "Extend your arm with your palm facing up. Use your other hand to gently pull your fingers down."
+            },
+            {
+                "name": "Finger Extensor Stretch",
+                "explanation": "Extend your arm with your palm facing down. Use your other hand to gently pull your fingers down."
+            },
+            {
+                "name": "Thumb Stretch",
+                "explanation": "Extend your thumb and use your other hand to gently pull it back."
+            },
+            {
+                "name": "Grip Strengthening",
+                "explanation": "Squeeze a soft ball or stress ball repeatedly."
+            },
+            {
+                "name": "Finger Taps",
+                "explanation": "Tap each finger to your thumb repeatedly."
+            }
+        ]
+    },
+    "abdomen": {
+        "exercises": [
+            {
+                "name": "Pelvic Tilts",
+                "explanation": "Lie on your back with your knees bent. Flatten your back against the floor by tightening your abdominal muscles and tilting your pelvis up slightly."
+            },
+            {
+                "name": "Abdominal Bracing",
+                "explanation": "Lie on your back with your knees bent. Tighten your abdominal muscles as if bracing for a punch."
+            },
+            {
+                "name": "Heel Slides",
+                "explanation": "Lie on your back with your knees bent. Slide one heel out straight, then return to the starting position."
+            },
+            {
+                "name": "Dead Bug",
+                "explanation": "Lie on your back with your arms extended towards the ceiling. Lower one arm and the opposite leg towards the floor while keeping your back flat."
+            },
+            {
+                "name": "Bird Dog",
+                "explanation": "Start on your hands and knees. Extend one arm and the opposite leg out straight, then switch sides."
+            }
+        ]
+    },
+    "groin": {
+        "exercises": [
+            {
+                "name": "Adductor Stretch",
+                "explanation": "Sit with your legs extended. Bring the soles of your feet together and gently push your knees towards the floor."
+            },
+            {
+                "name": "Butterfly Stretch",
+                "explanation": "Sit with your feet together and knees out to the sides. Hold your feet and gently press your knees towards the floor."
+            },
+            {
+                "name": "Standing Groin Stretch",
+                "explanation": "Stand with your feet wide apart. Shift your weight to one side, bending your knee, and keep the other leg straight."
+            },
+            {
+                "name": "Lying Groin Stretch",
+                "explanation": "Lie on your back with your feet together and knees out to the sides. Gently press your knees towards the floor."
+            },
+            {
+                "name": "Side Lunge",
+                "explanation": "Stand with your feet wide apart. Bend one knee and lower your body towards that side, keeping your other leg straight."
+            }
+        ]
+    },
+    "quadriceps": {
+        "exercises": [
+            {
+                "name": "Standing Quad Stretch",
+                "explanation": "Stand on one leg, bend your other knee, and pull your heel towards your buttocks."
+            },
+            {
+                "name": "Lying Quad Stretch",
+                "explanation": "Lie on your side with one leg bent. Grab your ankle and pull your heel towards your buttocks."
+            },
+            {
+                "name": "Quad Sets",
+                "explanation": "Sit with your legs extended. Tighten your thigh muscles and press the back of your knee into the floor."
+            },
+            {
+                "name": "Straight Leg Raise",
+                "explanation": "Lie on your back with one leg bent and the other straight. Lift the straight leg to the height of the bent knee."
+            },
+            {
+                "name": "Wall Sit",
+                "explanation": "Stand with your back against a wall and slide down into a seated position, holding for as long as possible."
+            }
+        ]
+    },
+    "hamstrings": {
+        "exercises": [
+            {
+                "name": "Seated Hamstring Stretch",
+                "explanation": "Sit with one leg extended and the other bent. Reach towards your toes on the extended leg."
+            },
+            {
+                "name": "Standing Hamstring Stretch",
+                "explanation": "Stand with one leg slightly in front of the other. Bend at the hips and reach towards your toes."
+            },
+            {
+                "name": "Hamstring Curls",
+                "explanation": "Stand with your feet shoulder-width apart. Bend one knee and bring your heel towards your buttocks."
+            },
+            {
+                "name": "Single-Leg Deadlift",
+                "explanation": "Stand on one leg, bend at the hips, and extend the other leg behind you. Lower your torso towards the floor."
+            },
+            {
+                "name": "Bridge Exercise",
+                "explanation": "Lie on your back with your knees bent and feet flat on the floor. Lift your hips towards the ceiling while squeezing your glutes."
+            }
+        ]
+    }
+}

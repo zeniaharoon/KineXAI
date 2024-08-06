@@ -1,0 +1,26 @@
+{
+    "lower back": {
+        "exercises": [
+            {
+                "name": "Cat-Cow Stretch",
+                "explanation": "Start on your hands and knees. Inhale as you arch your back, and exhale as you round it."
+            },
+            {
+                "name": "Child's Pose",
+                "explanation": "Kneel on the floor, sit back on your heels, and stretch your arms forward, lowering your head to the floor."
+            }
+        ]
+    },
+    "neck": {
+        "exercises": [
+            {
+                "name": "Neck Stretches",
+                "explanation": "Gently tilt your head towards your shoulder and hold. Repeat on the other side."
+            },
+            {
+                "name": "Shoulder Shrugs",
+                "explanation": "Lift your shoulders up towards your ears and then lower them back down."
+            }
+        ]
+    }
+}
