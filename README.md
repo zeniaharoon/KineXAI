@@ -5,7 +5,7 @@
 This is the repository for the backend of KineX AI. 
 
 Recommendation LLM:
-- The file titled "PT Recommendation LLM" contains the code that is used for the "Ask for Exercises"
+- The file titled "Recommendation_LLM" contains the code that is used for the "Ask for Exercises"
 - This requires the import of the training_data and test_data JSON files into the runtime to train the LLM
 - Includes exercise recommendation and explanation, along with video from physical therapist
 
