@@ -17,6 +17,8 @@ Pose Estimation:
 Demo Video:
 - The full video of the app demo with functionalities and features is included in the demo_video file
 - A short gif version of the demo is below.
+
+
 ![short_demo](https://github.com/user-attachments/assets/6ccc5ca0-d87e-465d-849f-8686e0b6c175)
 
 Wearable Tech:
